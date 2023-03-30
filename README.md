@@ -1,7 +1,7 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
 Bienvenidos a la prueba de objetos 1
-BUENASSSSSS
+     Realizado por Franco Nicolás Pfahler
 
 # Programación con objetos I
 
